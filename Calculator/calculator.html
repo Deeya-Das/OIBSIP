@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Calculator</title>
+    <link rel="stylesheet" href="calculator.css">
+</head>
+
+<body>
+    <div class="calculator">
+        <div class="result-div">
+            <h1>Calculator</h1>
+            <input type="text" id="display" readonly>
+        </div>
+        <div class="buttons">
+            <div class="display-grid">
+                <!-- Row 1 -->
+                <button onclick="clearDisplay()" class="icon">C</button>
+                <button onclick="appendToDisplay('(')" class="icon">(</button>
+                <button onclick="appendToDisplay(')')" class="icon">)</button>
+                <button onclick="appendToDisplay('/')" class="icon">/</button>
+                <!-- Row 2 -->
+                <button onclick="appendToDisplay('7')" class="icon">7</button>
+                <button onclick="appendToDisplay('8')" class="icon">8</button>
+                <button onclick="appendToDisplay('9')" class="icon">9</button>
+                <button onclick="appendToDisplay('*')" class="icon">*</button>
+                <!-- Row 3 -->
+                <button onclick="appendToDisplay('4')" class="icon">4</button>
+                <button onclick="appendToDisplay('5')" class="icon">5</button>
+                <button onclick="appendToDisplay('6')" class="icon">6</button>
+                <button onclick="appendToDisplay('-')" class="icon">-</button>
+                <!-- Row 4 -->
+                <button onclick="appendToDisplay('1')" class="icon">1</button>
+                <button onclick="appendToDisplay('2')" class="icon">2</button>
+                <button onclick="appendToDisplay('3')" class="icon">3</button>
+                <button onclick="appendToDisplay('+')" class="icon">+</button>
+                <!-- Row 5 -->
+                <button onclick="appendToDisplay('.')" class="icon">.</button>
+                <button onclick="appendToDisplay('0')" class="icon">0</button>
+                <button onclick="deleteLast()" class="icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                        class="lucide lucide-delete-icon lucide-delete">
+                        <path
+                            d="M10 5a2 2 0 0 0-1.344.519l-6.328 5.74a1 1 0 0 0 0 1.481l6.328 5.741A2 2 0 0 0 10 19h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2z" />
+                        <path d="m12 9 6 6" />
+                        <path d="m18 9-6 6" />
+                    </svg></button>
+                <button onclick="calculateResult()" class="icon">=</button>
+            </div>
+        </div>
+    </div>
+    <script src="calculator.js"></script>
+</body>
+
+</html>
