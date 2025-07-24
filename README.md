@@ -8,16 +8,16 @@ Each Project is organized into its own folder with complete source code and a se
 *** Project List ***<br>
 
   # Level 1<br>
-    Task 1: Landing Page<br>
-    Task 2: Portfolio<br>
-    Task 3: Temperature Converter<br>
+  Task 1: Landing Page<br>
+  Task 2: Portfolio<br>
+  Task 3: Temperature Converter<br>
     
   # Level 2<br>
-    Task 1:
+  Task 1:
     <br>
-    Task 2:
+  Task 2:
     <br>
-    Task 3:
+  Task 3:
     <br>
-    Task 4:
+  Task 4:
 
