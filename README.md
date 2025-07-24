@@ -1,6 +1,6 @@
 # Oasis Infobyte Internship Projects (OIBSIP)
 
-This repository contains all the projects I completed during my Web Development and Designing internship with ** Oasis Infobyte **.
+This repository contains all the projects I completed during my Web Development and Designing internship with ***Oasis Infobyte***.
 
 
 Each Project is organized into its own folder with complete source code and a separate README file describing the projects.
