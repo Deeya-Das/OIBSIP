@@ -10,14 +10,14 @@ Each Project is organized into its own folder with complete source code and a se
   # Level 1<br>
   Task 1: Landing Page<br>
   Task 2: Portfolio<br>
-  Task 3: Temperature Converter<br>
+  Task 3: Temperature Converter Website<br>
     
   # Level 2<br>
-  Task 1:
+  Task 1: Calculator 
     <br>
-  Task 2:
+  Task 2: Tribute Page 
     <br>
-  Task 3:
+  Task 3: A Basic To-Do WebApp
     <br>
-  Task 4:
+  Task 4: Login Authentication 
 
