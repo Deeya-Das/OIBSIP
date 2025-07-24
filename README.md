@@ -5,7 +5,7 @@ This repository contains all the projects I completed during my Web Development 
 
 Each Project is organized into its own folder with complete source code and a separate README file describing the projects.
 
-### Projects
+*** Project List ***
   #Level 1<br>
     Task 1: Landing Page<br>
     Task 2: Portfolio<br>
