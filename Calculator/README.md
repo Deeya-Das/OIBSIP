@@ -1,21 +1,7 @@
-# Simple Calculator
+# Level 2
 
+***Task 1: Simple Calculator***
 
-This is a basic web-based calculator built using HTML, CSS, and JavaScript. It allows users to perform standard arithmetic operations such as addition, subtraction, multiplication, and division. The design is clean and responsive, with support for parentheses, decimal numbers, and a backspace feature.
+<p>A responsive and easy-to-use calculator built with HTML, CSS, and JavaScript. It handles the four basic arithmetic operations — addition, subtraction, multiplication, and division — with smooth user interaction.</p>
 
-✨ Features
-Basic arithmetic operations: +, -, *, /
-
-Real-time display update
-
-Clear (C) and delete (←) buttons
-
-Handles brackets and decimal numbers
-
-Stylish dark theme with responsive layout
-
-🛠 Technologies Used<br>
-
-HTML5<br>
-CSS3<br>
-Vanilla JavaScript
+<p>This project helped me strengthen my skills in DOM manipulation, JavaScript logic building, and designing a clean, user-friendly interface.</p>
