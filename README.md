@@ -5,14 +5,14 @@ This repository contains all the projects I completed during my Web Development 
 
 Each Project is organized into its own folder with complete source code and a separate README file describing the projects.
 
-***Project List***<br>
+# Projects List
 
-  # Level 1
+  ***Level 1***
   Task 1: Landing Page<br>
   Task 2: Portfolio<br>
   Task 3: Temperature Converter Website<br>
     
-  # Level 2
+  ***Level 2***
   Task 1: Calculator 
     <br>
   Task 2: Tribute Page 
