@@ -1,25 +1,34 @@
-# Oasis Infobyte Internship Projects (OIBSIP)
+# 🌟 Oasis Infobyte Internship Projects (OIBSIP)
 
-This repository contains all the projects I completed during my Web Development and Designing internship with ***Oasis Infobyte***.
+This repository contains all the projects I completed during my Web Development and Designing internship with **Oasis Infobyte**.
 
+Each project is organized into its own folder with complete source code and a separate README file describing the project.
 
-Each Project is organized into its own folder with complete source code and a separate README file describing the projects.
+---
 
-# Projects List
+## 💼 Internship Experience
 
-  ***Level 1***
-  
-  Task 1: Landing Page<br>
-  Task 2: Portfolio<br>
-  Task 3: Temperature Converter Website<br>
-    
-  ***Level 2***
-  
-  Task 1: Calculator 
-    <br>
-  Task 2: Tribute Page 
-    <br>
-  Task 3: A Basic To-Do WebApp
-    <br>
-  Task 4: Login Authentication 
+During this virtual internship, I got the opportunity to work on multiple front-end web development projects using HTML, CSS, and JavaScript.  
+It helped me strengthen my fundamentals, improve my design thinking, and gain hands-on experience in creating responsive and user-friendly web pages.
 
+I also learned the importance of clean code structure, visual consistency, and effective use of GitHub for version control and project presentation.
+
+---
+
+## 📌 Projects List
+
+### Level 1
+
+- **Task 1:** Landing Page  
+- **Task 2:** Portfolio  
+- **Task 3:** Temperature Converter Website  
+
+### Level 2
+
+- **Task 1:** Calculator  
+- **Task 2:** Tribute Page  
+
+---
+
+Thank you for checking out my internship projects!  
+Feel free to explore each folder to view the project code and design.
