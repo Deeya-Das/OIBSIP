@@ -1,5 +1,10 @@
-# Level 1
+### 🌡️ Level 1 – Task 3: Temperature Converter
 
-***Task 3: Temperature Converter***
+This project is a simple yet functional **temperature converter** built using **HTML**, **CSS**, and **JavaScript**. It allows users to easily convert values between **Celsius**, **Fahrenheit**, and **Kelvin** with a smooth and responsive interface.
 
-<p>A handy and interactive temperature converter built with HTML, CSS, and JavaScript. It allows users to switch seamlessly between Celsius, Fahrenheit, and Kelvin. This project helped me practice input validation, unit conversion logic, and responsive UI design—transforming a basic idea into a functional mini web tool.</p>
+🛠️ Key Concepts Practiced:
+- Handling user input and form validation
+- Implementing conversion logic with JavaScript
+- Designing an intuitive and responsive UI layout
+
+⚙️ This task helped me turn a basic utility idea into a usable mini web app, strengthening my confidence in working with interactive elements and client-side logic.
