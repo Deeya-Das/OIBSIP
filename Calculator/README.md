@@ -1,7 +1,10 @@
-# Level 2
+### 🧮 Level 2 – Task 1: Simple Calculator
 
-***Task 1: Simple Calculator***
+This project is a responsive and user-friendly **calculator** built using **HTML**, **CSS**, and **JavaScript**. It performs the four basic arithmetic operations — **addition**, **subtraction**, **multiplication**, and **division** — through a clean and intuitive interface.
 
-<p>A responsive and easy-to-use calculator built with HTML, CSS, and JavaScript. It handles the four basic arithmetic operations — addition, subtraction, multiplication, and division — with smooth user interaction.</p>
+🧠 Key Skills Applied:
+- DOM manipulation for dynamic user interaction
+- Writing logical and reusable JavaScript functions
+- Styling a minimal, responsive layout for better usability
 
-<p>This project helped me strengthen my skills in DOM manipulation, JavaScript logic building, and designing a clean, user-friendly interface.</p>
+🧰 This task helped me sharpen my front-end development skills by combining logic, interactivity, and design into a practical web tool.
